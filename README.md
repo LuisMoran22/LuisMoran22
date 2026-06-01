@@ -100,17 +100,6 @@ Repository coming soon.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisMoran22&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMoran22&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
 ## Languages
 
 | Language | Level |

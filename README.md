@@ -93,14 +93,6 @@ I am currently working on:
 
 ---
 
-## GitHub Stats
-
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMoran22&show_icons=true&hide_title=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMoran22&layout=compact&theme=transparent)
-
----
-
 ## Contact
 
 - Email: luismamoran@outlook.com

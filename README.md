@@ -51,7 +51,7 @@ Biomedical image processing project focused on the classification and analysis o
 
 **Main areas:** image processing, cell classification, biomedical analysis, computer vision.
 
-Repository: [Blood Cell Classification Image Processing]
+Repository: [Blood Cell Classification Image Processing] https://github.com/LuisMoran22/blood-cell-classification-image-processing
 
 ---
 

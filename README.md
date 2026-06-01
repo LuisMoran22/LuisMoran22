@@ -87,7 +87,18 @@ Academic biomedical instrumentation project involving ECG signal acquisition and
 
 **Main topics:** `ECG` · `Biomedical Instrumentation` · `Signal Acquisition` · `Hardware Integration`
 
-Repository under preparation.
+Documentation under preparation.
+
+---
+
+## Portfolio Status
+
+| Project | Status |
+|---|---|
+| Blood Cell Classification | Documentation completed |
+| Flex-Force Wrist Orthosis | Documentation completed |
+| ECG Signal Acquisition System | Documentation under preparation |
+| Data Analysis Project | In development |
 
 ---
 

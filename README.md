@@ -87,7 +87,7 @@ Academic biomedical instrumentation project involving ECG signal acquisition and
 
 **Main topics:** `ECG` · `Biomedical Instrumentation` · `Signal Acquisition` · `Hardware Integration`
 
-Repository coming soon.
+Repository under preparation.
 
 ---
 

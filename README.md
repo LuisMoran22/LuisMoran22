@@ -1,105 +1,144 @@
+<div align="center">
+
 # Hi, I'm Luis Manuel Morán García 👋
 
-Biomedical Engineer focused on **Data Analysis, Biomedical Image Processing, and Artificial Intelligence applied to Healthcare**.
+### Biomedical Engineer | Data Analysis | AI in Healthcare | Medical Image Processing
 
-I am currently building a technical portfolio that connects my background in Biomedical Engineering with practical skills in **Python, SQL, data visualization, medical image processing, and machine learning**. My long-term goal is to contribute to AI-based healthcare technologies, especially in early diagnosis, biomedical signal processing, and medical imaging.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Biomedical+Engineering;Artificial+Intelligence+in+Healthcare;Medical+Image+Processing;Data+Analysis+%26+Computer+Vision;Rehabilitation+Technology" alt="Typing SVG" />
+
+<br/>
+
+<a href="mailto:luismamoran@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/luis-manuel-moran-garcia">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis_Manuel_Morán_García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/LuisMoran22">
+  <img src="https://img.shields.io/badge/GitHub-LuisMoran22-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=LuisMoran22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
 ## About Me
 
-- Biomedical Engineering graduate from Universidad La Salle Bajío
-- Interested in AI applications for healthcare and medical research
-- Experience with biomedical projects involving image processing, ECG systems, rehabilitation devices, and patient-care technologies
-- Currently strengthening my skills in Data Analysis, Python, SQL, and Machine Learning
-- Preparing for graduate studies focused on Biomedical Engineering and AI in Medicine
+I am a **Biomedical Engineering graduate** focused on the intersection of **healthcare, data analysis, biomedical instrumentation, and artificial intelligence**.
+
+My current work is centered on building a technical portfolio that connects biomedical engineering projects with practical applications in **Python, medical image processing, computer vision, SQL, and healthcare-oriented AI systems**.
+
+I am especially interested in developing technologies that support **early diagnosis, rehabilitation, clinical decision-making, and biomedical data analysis**.
 
 ---
 
 ## Technical Skills
 
-### Programming & Data
-- Python
-- NumPy
-- Matplotlib
-- SQL / MariaDB
-- Excel / Spreadsheets
-- Data Cleaning
-- Data Visualization
+<div align="center">
 
-### Biomedical & AI Interests
-- Biomedical Image Processing
-- Medical Data Analysis
-- ECG Signal Analysis
-- Computer Vision
-- Machine Learning for Healthcare
-- Clinical Decision Support Systems
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,arduino" />
 
-### Tools
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
-- MATLAB
-- VS Code
+</div>
+
+<br/>
+
+| Area | Tools & Topics |
+|---|---|
+| **Programming & Data** | Python, SQL, Excel, Data Cleaning, Data Visualization |
+| **Biomedical Engineering** | Biomedical Instrumentation, ECG, EMG, Rehabilitation Devices |
+| **AI & Computer Vision** | Medical Image Processing, Machine Learning, Computer Vision |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, MATLAB, Arduino |
+| **Research Interests** | AI in Healthcare, Biomedical Signals, Medical Imaging, Clinical Data Analysis |
 
 ---
 
 ## Featured Projects
 
-### Blood Cell Classification using Image Processing
-Biomedical image processing project focused on the classification and analysis of blood cell microscopy images.
+### 🔬 Blood Cell Classification using Image Processing
 
-**Main areas:** image processing, cell classification, biomedical analysis, computer vision.
+Biomedical image processing project focused on the classification and analysis of blood cell microscopy images.  
+This project demonstrates experience in **computer vision, biomedical image analysis, and healthcare-oriented AI applications**.
 
-Repository: [Blood Cell Classification Image Processing] https://github.com/LuisMoran22/blood-cell-classification-image-processing
+**Main topics:** `Python` · `Image Processing` · `Biomedical Engineering` · `Computer Vision` · `Healthcare AI`
 
----
-
-### ECG Signal Acquisition and Visualization System
-Academic biomedical engineering project involving ECG signal acquisition and visualization using a modified printer mechanism and oscilloscope output for the three main ECG vectors.
-
-**Main areas:** ECG, biomedical instrumentation, signal acquisition, hardware integration.
-
-Repository: Coming soon.
+[View Repository](https://github.com/LuisMoran22/blood-cell-classification-image-processing)
 
 ---
 
-### Patient Monitoring and Pressure Ulcer Prevention System
-Biomedical device concept designed to assist nurses by monitoring patient movement and helping reduce the risk of pressure ulcers in immobilized patients.
+### 🦾 Flex-Force Wrist Orthosis
 
-**Main areas:** patient monitoring, biomedical devices, healthcare technology.
+Smart wrist orthosis prototype designed for rehabilitation monitoring after wrist injuries.  
+The system integrates **flex sensors, MPU6050 motion sensing, OLED display, Arduino-based electronics, and EMG instrumentation concepts**.
 
-Repository: Coming soon.
+**Main topics:** `Biomedical Devices` · `Rehabilitation Engineering` · `Arduino` · `EMG` · `3D Design`
+
+[View Repository](https://github.com/LuisMoran22/flex-force-wrist-orthosis)
+
+---
+
+### ❤️ ECG Signal Acquisition and Visualization System
+
+Academic biomedical instrumentation project involving ECG signal acquisition and visualization using a modified printing mechanism and oscilloscope output for the three main ECG vectors.
+
+**Main topics:** `ECG` · `Biomedical Instrumentation` · `Signal Acquisition` · `Hardware Integration`
+
+Repository coming soon.
 
 ---
 
 ## Current Focus
 
-I am currently working on:
+- Building a strong biomedical engineering and data analysis portfolio
+- Improving my skills in Python, SQL, and machine learning
+- Developing projects related to AI in healthcare and biomedical signals
+- Preparing for graduate research opportunities in Biomedical Engineering and Artificial Intelligence applied to Medicine
 
-- Improving my GitHub portfolio
-- Developing data analysis projects
-- Strengthening Python and SQL skills
-- Building biomedical AI projects
-- Preparing for graduate research in AI applied to healthcare
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuisMoran22&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMoran22&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
 
 ---
 
 ## Languages
 
-- Spanish: Native
-- English: B2/C1
-- Japanese: N5–N4 level
+| Language | Level |
+|---|---|
+| Spanish | Native |
+| English | Professional working proficiency |
+| Japanese | Beginner / JLPT N5–N4 preparation |
 
----
-
-## Contact
-
-- Email: luismamoran@outlook.com
-- LinkedIn: www.linkedin.com/in/luis-manuel-moran-garcia
-- GitHub: https://github.com/LuisMoran22
 ---
 
 ## Professional Goal
 
-My goal is to combine **Biomedical Engineering, Artificial Intelligence, and Data Analysis** to develop practical healthcare technologies that support diagnosis, improve patient outcomes, and contribute to medical research.
+My goal is to combine **Biomedical Engineering, Artificial Intelligence, and Data Analysis** to develop practical healthcare technologies that support diagnosis, rehabilitation, patient monitoring, and medical research.
+
+---
+
+<div align="center">
+
+### Let's connect
+
+<a href="mailto:luismamoran@outlook.com">
+  <img src="https://img.shields.io/badge/Email-luismamoran%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/luis-manuel-moran-garcia">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis_Manuel_Morán_García-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/LuisMoran22">
+  <img src="https://img.shields.io/badge/GitHub-LuisMoran22-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>

@@ -95,9 +95,9 @@ I am currently working on:
 
 ## GitHub Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMoran22&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMoran22&layout=compact)
 
 ---
 
@@ -105,7 +105,7 @@ I am currently working on:
 
 - Email: luismamoran@outlook.com
 - LinkedIn: www.linkedin.com/in/luis-manuel-moran-garcia
-- GitHub: 
+- GitHub: https://github.com/LuisMoran22
 ---
 
 ## Professional Goal

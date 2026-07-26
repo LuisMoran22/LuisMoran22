@@ -29,11 +29,15 @@
 
 ## About Me
 
-I am a **Biomedical Engineering graduate** focused on the intersection of **healthcare, data analysis, biomedical instrumentation, and artificial intelligence**.
+I'm a recent engineering graduate building a career in **Data Analysis and Machine Learning**.
 
-My current work is centered on building a technical portfolio that connects biomedical engineering projects with practical applications in **Python, medical image processing, computer vision, SQL, and healthcare-oriented AI systems**.
+I work across the full data pipeline — cleaning and exploring data, building visualizations,
+and training ML models — with hands-on experience in Python, SQL, and TensorFlow applied to
+real-world image and signal datasets.
 
-I am especially interested in developing technologies that support **early diagnosis, rehabilitation, clinical decision-making, and biomedical data analysis**.
+I'm currently expanding into general-purpose data analytics (SQL, dashboards, business datasets)
+while continuing to build ML projects, and I'm actively looking for a junior Data Analyst / ML
+role where I can keep growing.
 
 ---
 
@@ -104,11 +108,10 @@ Documentation under preparation.
 
 ## Current Focus
 
-- Building a strong biomedical engineering and data analysis portfolio
-- Improving my skills in Python, SQL, and machine learning
-- Developing projects related to AI in healthcare and biomedical signals
-- Preparing for graduate research opportunities in Biomedical Engineering and Artificial Intelligence applied to Medicine
-
+- Strengthening SQL and data visualization for business analytics roles
+- Building a non-healthcare data project to show range (public datasets)
+- Finishing the Google Data Analytics Professional Certificate
+- Applying to junior Data/ML roles
 ---
 
 ## Languages
